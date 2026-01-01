@@ -14,6 +14,7 @@ React Flow 라이브러리 학습을 목표로 합니다.
   pnpm run dev
 ```
 
+# React Flow 핵심 요약
 
 ## 1. React Flow와 TypeScript
 
@@ -46,7 +47,7 @@ n8n 같은 대규모 워크플로우 툴에서는 수백 개의 노드가 렌더
     - `useCallback`: **함수 로직**을 보관 $\rightarrow$ "신분증 유지"
     - `useMemo`: **실행 결과**를 보관 $\rightarrow$ "재계산 방지"
 
-### 4. 커스텀 노드 제작 3단계
+## 4. 커스텀 노드 제작 3단계
 
 n8n 스타일의 노드를 만드는 표준 절차입니다.
 
